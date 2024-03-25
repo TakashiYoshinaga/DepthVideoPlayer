@@ -5,8 +5,8 @@
 
 2. **Application Installation**
    - Install an iPhone/iPad.
-     *Please contact me for the download link
-     *LiDAR sensor is required.
+     * Please contact me for the download link
+     * LiDAR sensor is required.
    - Download the app for Looking Glass from this repository.
    - Download and install Looking Glass Bridge from the official website: [Looking Glass Factory](https://lookingglassfactory.com/software/looking-glass-bridge).
 
@@ -26,7 +26,7 @@
 
 4. **Recording**
    - Tap the 'Rec' button to start recording.
-     * The area at the depth marked by a blue line will be displayed clearly in the Looking Glass.
+     * The areas around the depth indicated by the blue line will be clearly displayed in the Looking Glass.
    - Tap the 'Stop' button to end the recording.
 
 5. **Playback**
