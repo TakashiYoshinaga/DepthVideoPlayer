@@ -32,4 +32,10 @@
 
 5. **Playback**
    - The video with depth data will automatically be transferred to the PC and playback will begin.
+  
+# Realtime Communication App
+If you are interested in real-time communication using Point Cloud, please try the app below.  
+Note: In environments with strict security, communication might be hindered, so consider using tethering or similar alternatives.
+https://github.com/HoloTuberKit/HoloTuberKit-RealTime
+
 
