@@ -27,6 +27,7 @@
 4. **Recording**
    - Tap the 'Rec' button to start recording.
      * The areas around the depth indicated by the blue line will be clearly displayed in the Looking Glass.
+      <img src="https://github.com/TakashiYoshinaga/DepthVideoPlayer/blob/main/Materials/example.jpg?raw=true" width="200">
    - Tap the 'Stop' button to end the recording.
 
 5. **Playback**
