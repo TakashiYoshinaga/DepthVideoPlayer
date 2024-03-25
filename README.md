@@ -4,7 +4,9 @@
    - Connect your PC and iPhone to the same network.
 
 2. **Application Installation**
-   - Install an iPhone/iPad app that requires LiDAR. (Please contact me for the download link)
+   - Install an iPhone/iPad.
+     *Please contact me for the download link
+     *LiDAR sensor is required.
    - Download the app for Looking Glass from this repository.
    - Download and install Looking Glass Bridge from the official website: [Looking Glass Factory](https://lookingglassfactory.com/software/looking-glass-bridge).
 
