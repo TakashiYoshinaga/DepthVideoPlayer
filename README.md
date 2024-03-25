@@ -36,7 +36,7 @@
   
 # Real-time Communication App
 If you are interested in real-time communication using Point Cloud, please try the app below.  
-Note: In environments with strict security, communication might be hindered, so consider using tethering or similar alternatives.  
+Note: In cases where communication might be hindered in environments with strict security, consider using tethering or similar alternatives.  
 https://github.com/HoloTuberKit/HoloTuberKit-RealTime
 
 
