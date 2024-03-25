@@ -22,7 +22,7 @@
 
 3. **Start the iPhone/iPad App**
    - Open the iPhone/iPad app.
-   - Enter the IP Address in the app and tap the connect button.
+   - Enter the IP Address in the app and tap the Set button.
 
 4. **Recording**
    - Tap the 'Rec' button to start recording.
