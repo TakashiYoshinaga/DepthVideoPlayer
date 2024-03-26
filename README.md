@@ -9,6 +9,9 @@
      * LiDAR sensor is required.
    - Download the app for Looking Glass from this repository.
    - Download and install Looking Glass Bridge from the official website: [Looking Glass Factory](https://lookingglassfactory.com/software/looking-glass-bridge).
+   - Confirm your display setting. [Display Setting](https://docs.lookingglassfactory.com/software-tools/looking-glass-bridge/display-settings-on-windows)
+
+
 
 # Application Usage
 
