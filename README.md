@@ -28,14 +28,24 @@
    - Enter the IP Address in the app and tap the Set button.
 
 4. **Recording**
-   - Tap the 'Rec' button to start recording.
+   - Tap the `Rec` button to start recording.
      * The depth of the colored areas is recorded, while the depth of the distant scenes (gray areas) is not recorded.
      * The areas around the depth indicated by the blue line will be clearly displayed in the Looking Glass.
       <img src="https://github.com/TakashiYoshinaga/DepthVideoPlayer/blob/main/Materials/example.jpg?raw=true" width="200">
-   - Tap the 'Stop' button to end the recording.
+   - Tap the `Stop` button to end the recording.
 
 5. **Playback**
    - The video with depth data will automatically be transferred to the PC and playback will begin.
+
+# Add and Delete Video Files Manually
+
+1. **File Storage Location on iPhone/iPad**
+   - Go to Files app -> Depth Recorder -> Captures.
+   - Delete files or transfer them to your PC as needed.
+
+2. **File Storage Location on PC**
+   - Windows: Inside the `dl` folder located in the same directory as DepthVideoPlayer.exe.
+   - Mac: Inside the `dl` folder within DepthVideoPlayer.app.
   
 # Real-time Communication App
 If you are interested in real-time communication using Point Cloud, please try the app below.  
