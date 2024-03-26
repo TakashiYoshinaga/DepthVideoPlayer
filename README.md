@@ -20,7 +20,7 @@
 
 2. **Launch Software**
    - Start the Looking Glass Bridge application.
-   - Launch `DepthVideoPlayer.exe`.
+   - Launch `DepthVideoPlayer.exe` or `DepthVideoPlayer.app` .
    - Ensure that the Looking Glass displays the PC's IP Address.
 
 3. **Start the iPhone/iPad App**
