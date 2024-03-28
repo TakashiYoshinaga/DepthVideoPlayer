@@ -4,7 +4,7 @@
    - Connect your PC and iPhone to the same network.
 
 2. **Application Installation**
-   - Install an app to iPhone/iPad.
+   - Install the app to iPhone/iPad.
      * Please contact me for the download link
      * LiDAR sensor is required.
    - Download the app for Looking Glass from this repository.
