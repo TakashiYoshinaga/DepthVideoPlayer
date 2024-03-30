@@ -46,6 +46,10 @@
 2. **File Storage Location on PC**
    - Windows: Inside the `dl` folder located in the same directory as DepthVideoPlayer.exe.
    - Mac: Inside the `dl` folder within DepthVideoPlayer.app.
+
+# Trouble Shooting
+After recording a video with depth on iPhone, if the video does not appear immediately in LookingGlass, please remove DepthVideoPlayer.exe from your firewall settings once.  
+Alternatively, turn off the firewall only when using this application.
   
 # Real-time Communication App
 If you are interested in real-time communication using Point Cloud, please try the app below.  
