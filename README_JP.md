@@ -1,0 +1,50 @@
+# セットアップ手順
+
+1. **ネットワーク接続**
+   - PCとiPhoneを同じネットワークに接続してください。
+
+2. **アプリケーションのインストール**
+   - iPhone/iPadにアプリをインストールしてください。
+     * ダウンロードリンクについては私にお問い合わせください
+     * LiDARセンサーが必要です。
+   - このリポジトリからLooking Glass用のアプリをダウンロードしてください。
+   - 公式ウェブサイトからLooking Glass Bridgeをダウンロードしてインストールしてください： [Looking Glass Bridge](https://lookingglassfactory.com/software/looking-glass-bridge).
+   - ディスプレイ設定を確認してください。[Display Setting](https://docs.lookingglassfactory.com/software-tools/looking-glass-bridge/display-settings-on-windows)
+
+# アプリケーションの使用方法
+
+1. **デバイスの接続**
+   - PCとLooking Glass PortraitをHDMIケーブルで接続してください。
+
+2. **ソフトウェアの起動**
+   - Looking Glass Bridgeアプリケーションを開始します。
+   - `DepthVideoPlayer.exe` または `DepthVideoPlayer.app` を起動します。
+   - PCのIPアドレスがLooking Glassに表示されていることを確認してください。
+
+3. **iPhone/iPadアプリの開始**
+   - iPhone/iPadアプリを開きます。
+   - アプリ内でIPアドレスを入力し、`Set`ボタンをタップしてください。
+
+4. **録画**
+   - `Rec`ボタンをタップして録画を開始します。
+     * 色付きの領域の奥行きが録画され、遠景（灰色の領域）の奥行きは録画されません。
+     * 青線で示された奥行きの周囲の領域がLooking Glassにクリアに表示されます。
+      <img src="https://github.com/TakashiYoshinaga/DepthVideoPlayer/blob/main/Materials/example.jpg?raw=true" width="200">
+   - `Stop`ボタンをタップして録画を終了します。
+
+5. **再生**
+   - 奥行きデータを含むビデオはPCに自動的に転送され、再生が始まります。
+
+# ビデオファイルの手動追加と削除
+
+1. **iPhone/iPadのファイル保存場所**
+   - ファイルアプリ -> Depth Recorder -> Capturesに進んでください。
+   - ファイルを削除するか、PCに転送してください。
+
+2. **PCのファイル保存場所**
+   - Windows: DepthVideoPlayer.exeと同じディレクトリ内の`dl`フォルダ内。
+   - Mac: DepthVideoPlayer.app内の`dl`フォルダ内。
+
+# トラブルシューティング
+iPhoneで奥行き付きのビデオを録画した後、すぐにLookingGlassにビデオが表示されない場合は、ファイヤーウォールの設定からDepthVideoPlayer.exeを一度削除してください。
+または、このアプリケーションを使用しているときだけ
