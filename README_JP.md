@@ -5,7 +5,7 @@
 
 2. **アプリケーションのインストール**
    - iPhone/iPadにアプリをインストールしてください。
-     * ダウンロードリンクについては私にお問い合わせください
+     * ダウンロードリンクについては私にお問い合わせください [X](https://twitter.com/Taka_Yoshinaga),[LinkedIn](https://www.linkedin.com/in/tks-yoshinaga/)
      * LiDARセンサーが必要です。
    - このリポジトリからLooking Glass用のアプリをダウンロードしてください。
    - 公式ウェブサイトからLooking Glass Bridgeをダウンロードしてインストールしてください： [Looking Glass Bridge](https://lookingglassfactory.com/software/looking-glass-bridge).
@@ -17,8 +17,8 @@
    - PCとLooking Glass PortraitをHDMIケーブルで接続してください。
 
 2. **ソフトウェアの起動**
-   - Looking Glass Bridgeアプリケーションを開始します。
-   - `DepthVideoPlayer.exe` または `DepthVideoPlayer.app` を起動します。
+   - Looking Glass Bridgeを起動します。
+   - `DepthVideoPlayer.exe` (Windows)または `DepthVideoPlayer.app`(Mac) を起動します。
    - PCのIPアドレスがLooking Glassに表示されていることを確認してください。
 
 3. **iPhone/iPadアプリの開始**
@@ -33,12 +33,12 @@
    - `Stop`ボタンをタップして録画を終了します。
 
 5. **再生**
-   - 奥行きデータを含むビデオはPCに自動的に転送され、再生が始まります。
+   - Depthデータ(奥行き)を含むビデオはPCに自動的に転送され、再生が始まります。
 
 # ビデオファイルの手動追加と削除
 
 1. **iPhone/iPadのファイル保存場所**
-   - ファイルアプリ -> Depth Recorder -> Capturesに進んでください。
+   - ファイル -> Depth Recorder -> Capturesに進んでください。
    - ファイルを削除するか、PCに転送してください。
 
 2. **PCのファイル保存場所**
@@ -47,4 +47,10 @@
 
 # トラブルシューティング
 iPhoneで奥行き付きのビデオを録画した後、すぐにLookingGlassにビデオが表示されない場合は、ファイヤーウォールの設定からDepthVideoPlayer.exeを一度削除してください。
-または、このアプリケーションを使用しているときだけ
+または、このアプリケーションを使用しているときだけ一時的にファイヤーウォールをオフにしてください。
+
+# リアルタイム通信アプリ
+ポイントクラウドを使用したリアルタイム通信に興味がある場合は、以下のアプリを試してみてください。
+注意：
+セキュリティが厳しい環境で通信が妨げられる場合は、テザリングなどの代替手段を検討してください。
+[https://github.com/HoloTuberKit/HoloTuberKit-RealTime](https://github.com/HoloTuberKit/HoloTuberKit-RealTime)
