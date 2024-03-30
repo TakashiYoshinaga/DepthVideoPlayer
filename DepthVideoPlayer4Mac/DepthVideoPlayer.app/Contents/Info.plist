@@ -5,17 +5,17 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>CFBundleExecutable</key>
-    <string>FileReceiver</string>
+    <string>DepthVideoPlayer</string>
     <key>CFBundleGetInfoString</key>
     <string>Unity Player version 2022.3.20f1 (61c2feb0970d). (c) 2005-2024 Unity Technologies. All rights reserved.</string>
     <key>CFBundleIconFile</key>
     <string>PlayerIcon.icns</string>
     <key>CFBundleIdentifier</key>
-    <string>com.DefaultCompany.FileReceiver</string>
+    <string>com.Yoshinaga.DepthVideoPlayer</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>FileReceiver</string>
+    <string>DepthVideoPlayer</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
