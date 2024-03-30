@@ -47,10 +47,12 @@
 
 # トラブルシューティング
 iPhoneで奥行き付きのビデオを録画した後、すぐにLookingGlassにビデオが表示されない場合は、ファイヤーウォールの設定からDepthVideoPlayer.exeを一度削除してください。
-または、このアプリケーションを使用しているときだけ一時的にファイヤーウォールをオフにしてください。
-
+または、このアプリケーションを使用しているときだけ一時的にファイヤーウォールをオフにしてください。  
+[アプリ毎のファイヤウォール設定(Windows)](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=9810-8377)
+  
+  
 # リアルタイム通信アプリ
 ポイントクラウドを使用したリアルタイム通信に興味がある場合は、以下のアプリを試してみてください。
 注意：
-セキュリティが厳しい環境で通信が妨げられる場合は、テザリングなどの代替手段を検討してください。
+セキュリティが厳しい環境で通信が妨げられる場合は、テザリングなどの代替手段を検討してください。  
 [https://github.com/HoloTuberKit/HoloTuberKit-RealTime](https://github.com/HoloTuberKit/HoloTuberKit-RealTime)
