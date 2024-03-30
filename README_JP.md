@@ -46,7 +46,7 @@
    - Mac: DepthVideoPlayer.app内の`dl`フォルダ内。
 
 # トラブルシューティング
-iPhoneで奥行き付きのビデオを録画した後、すぐにLookingGlassにビデオが表示されない場合は、ファイヤーウォールの設定からDepthVideoPlayer.exeを一度削除してください。
+iPhoneで奥行き付きのビデオを録画した後、すぐにLookingGlassにビデオが表示されない場合は、ファイヤーウォールの設定からDepthVideoPlayer.exeを一度削除してください。  
 または、このアプリケーションを使用しているときだけ一時的にファイヤーウォールをオフにしてください。  
 [アプリ毎のファイヤウォール設定(Windows)](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=9810-8377)
   
