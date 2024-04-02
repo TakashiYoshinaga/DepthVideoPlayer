@@ -1,3 +1,7 @@
+# Depth Video Player
+[![](https://img.youtube.com/vi/9t6Q_n_9fto/0.jpg)](https://www.youtube.com/watch?v=9t6Q_n_9fto)
+
+
 # セットアップ手順
 
 1. **ネットワーク接続**
