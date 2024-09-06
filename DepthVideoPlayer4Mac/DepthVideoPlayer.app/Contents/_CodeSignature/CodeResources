@@ -10,11 +10,15 @@
 		</data>
 		<key>Resources/Data/RuntimeInitializeOnLoads.json</key>
 		<data>
-		m5MFW/kszBDFGsSM5Nwc9zIrMFs=
+		MNRqz7TIs5O9Ptguj+XBmE6SjUY=
 		</data>
 		<key>Resources/Data/ScriptingAssemblies.json</key>
 		<data>
 		uPClEUv0Sov9Xc1EZkQ4n0f63kE=
+		</data>
+		<key>Resources/Data/StreamingAssets/FFmpegOut/Windows/ffmpeg.exe</key>
+		<data>
+		rguJ6MVgivfwGtxA8CleVGsahLA=
 		</data>
 		<key>Resources/Data/app.info</key>
 		<data>
@@ -22,15 +26,15 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		PbpE0r1JGlHFZvyiXxYNrzbO/qY=
+		+r30EimSPqqSc0evUGe/zG8lW68=
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		ch0ev4NeOhVhdJmHDUN3t84GljI=
+		KvAKy+xb18ltl4WuduPHvis5m90=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
-		Kw5RKI3IUbEFxa0LlrLouoXXM3w=
+		CLJdrzN0xLAZzy+39tr5ovWcmHQ=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets.resS</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>Resources/Data/il2cpp_data/Metadata/global-metadata.dat</key>
 		<data>
-		0MguqHClPboxxpUCJFgGDiY2lzU=
+		Ys7TNthzyikmgN+25ChDGcGdRmU=
 		</data>
 		<key>Resources/Data/il2cpp_data/Resources/System.Data.dll-resources.dat</key>
 		<data>
@@ -50,7 +54,7 @@
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
-		Cp5HAIuSi/fyVGx93w038RP+ytE=
+		uVPIzd2nrfh1ZBV7TLxaPueHHmA=
 		</data>
 		<key>Resources/Data/level0.resS</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		qmCT0IjZTBKSNE8F2LBcdYZay/M=
+		qrruCKgdWpS0RuO1+jWMt3NqksA=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -66,7 +70,7 @@
 		</data>
 		<key>Resources/Data/sharedassets0.assets</key>
 		<data>
-		hV+2JhBs03q9gV2xnbpeUSXaee8=
+		qw1PdcO6VEExJgxRZs/UUeYDemQ=
 		</data>
 		<key>Resources/DefaultPreferences.plist</key>
 		<data>
@@ -91,10 +95,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RiZ5HyDZ743KxM0zeBTGbqT4Jc0=
+			4sAwW8Ku96gIOFspx+6AByva5iE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4626791f20d9ef8dcac4cd337814c66ea4f825cd" or cdhash H"e583039237b34d1bf1d59d6e1e817b43de23255f"</string>
+			<string>cdhash H"e2c0305bc2aef7a808385b29c7ee80072bdae621" or cdhash H"64eb8ad757da5f365d4adbf3446f3210cd4df22d"</string>
 		</dict>
 		<key>Frameworks/UnityPlayer.dylib</key>
 		<dict>
@@ -134,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uaH3tvrd0e85eK7szgiGy5feC5ZA1ouNJ6ZkcBir8x0=
+			crDMMIQIltbw3wwjlLRFVNifOFKh7XWTGDvyNHpyr1E=
 			</data>
 		</dict>
 		<key>Resources/Data/ScriptingAssemblies.json</key>
@@ -142,6 +146,13 @@
 			<key>hash2</key>
 			<data>
 			lfsPBADq7gC4RmNYMw/jNxf+SanCV6x09oXUgPIS0BI=
+			</data>
+		</dict>
+		<key>Resources/Data/StreamingAssets/FFmpegOut/Windows/ffmpeg.exe</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LdDVOp7lIHGN17wlN8CtmWIPRiXNfInGhuoIDeuVupc=
 			</data>
 		</dict>
 		<key>Resources/Data/app.info</key>
@@ -155,21 +166,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			edVdcmPV4XRdg6F070M65op7Tb0v1GJi25NhE4gcQCg=
+			XTwpZ/0p3uzidNTBHa1HP6HVRarhWfahFgFWbQgMRbw=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGK+Aphiu5aeMam5Gdbu3JSRgEWGtzBekTphbmDoPPk=
+			4OkLSV0N1sX1tgBSkgoVwW9KdupsFeMhpNVSgmv8PAg=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J1Iwt3wQVRiOUHMIHT71Mo25rUiQbgXZX83hAy6vrP0=
+			MzLS/6CD9Zhy5OVYHKR43KPFCHjC5B0rEy/FCgCiVuw=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets.resS</key>
@@ -183,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IuUFypZlalIXYWFZ7TkMQBsf8+F11bZTAW4yPJgXGTI=
+			x4lkt9IrfWrPpqEIkldKxdRjD+yB1cNoBuJ6vL8ma+g=
 			</data>
 		</dict>
 		<key>Resources/Data/il2cpp_data/Resources/System.Data.dll-resources.dat</key>
@@ -204,7 +215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jJ+MGx7FQlNypCH1BtKp/KqOM1dNseqY6LTqFWE1Or8=
+			Kqen98oULzPk7+HqTizd4Cf7/nS8AwKeORg7lAzJFw0=
 			</data>
 		</dict>
 		<key>Resources/Data/level0.resS</key>
@@ -218,7 +229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TXMwrUNHUn32wzh9+Vsp81N/pWk++oHSYHgb9BmOOc0=
+			4OoL2xYxTk1QRyq1x6hJBElf0qMTu3bCq7aIqfplZSk=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
@@ -232,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f9UBbMvjVnzVOcohO/NtWEaneioqHHNSQb1N62cnboc=
+			9uD3F5EhUEM7i9yb6XE70xxkGihZw5v/Qs02R7j1kx8=
 			</data>
 		</dict>
 		<key>Resources/DefaultPreferences.plist</key>
